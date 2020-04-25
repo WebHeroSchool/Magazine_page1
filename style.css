@@ -10,9 +10,6 @@ header {
 nav {
 		padding-top: 30px;
 }
-span {
-	text-transform: uppercase;
-}
 section {
 	margin: 0 auto;
 	width: 1200px;
@@ -39,12 +36,9 @@ h1 {
 	font-size: 83px;
 	margin-bottom: 10px;
 }
-img {
-	width: 100%;
-}
 footer {
 	margin: 0 auto;
 	width: 1200px;
 	min-height: 30px;
-    padding-left: 870px;	
+	text-align: right;	
 }
