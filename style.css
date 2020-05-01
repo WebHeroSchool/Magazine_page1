@@ -1,4 +1,20 @@
 body {
+    background-color: #efece7;
+}
+header , section , footer {
+	margin: 0 auto;
+	width: 1200px;
+
+}
+aside, article {
+	display: inline-block;
+	width: 49%;
+}
+h1 {
+	font-size: 83px;
+}
+
+/*body {
 	margin: 0 auto;
 	background-color: #efece7;
 }
@@ -41,4 +57,4 @@ footer {
 	width: 1200px;
 	min-height: 30px;
 	text-align: right;	
-}
+}*/
